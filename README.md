@@ -1,3 +1,3 @@
 # phishingPoC
 
-This is a phishing link [Phishing Link](https://cyberouse.com/)
+This is a phishing link [Phishing Link](https://cyberouse.com/Phishing/)
